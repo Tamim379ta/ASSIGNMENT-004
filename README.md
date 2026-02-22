@@ -10,12 +10,3 @@
 ### 4. What is Event Delegation in JavaScript? Why is it useful?
 
 ### 5. What is the difference between preventDefault() and stopPropagation() methods?
-
-
-
---- 
-
-## What to submit: 
-
-1. GitHub Repository Link: 
-2. Live Site Link: 
